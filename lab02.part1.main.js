@@ -134,7 +134,6 @@ function getIpv4MappedIpv6Address(ipv4) {
   return ipv6Address;
 }
 
-
 /*
   Call main to run it.
 */
